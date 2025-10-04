@@ -1,4 +1,4 @@
-# pychess
+# pychess v0.8
 
 ## Chaque joueur joue chacun son tour et clique sur 'SPACE' après avoir joué pour stopper son timer.
 
